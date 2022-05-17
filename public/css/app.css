@@ -12199,6 +12199,14 @@ main .cardcontainer {
   overflow: auto;
 }
 
+main .cardcontainer .btn {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
 main .cardcontainer:hover {
   box-shadow: 0 0 45px gray;
 }
@@ -12258,15 +12266,13 @@ main .txt2 {
   overflow: scroll;
 }
 
-main .btn {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 100%;
-  transform: translateX(-50%);
+main .single-photo {
+  width: 300px;
+  height: 400px;
 }
 
-main .single-photo {
-  width: 200px;
+main .single-photo img {
+  height: 100%;
+  width: 100%;
 }
 

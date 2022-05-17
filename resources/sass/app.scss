@@ -22,6 +22,13 @@ main{
     margin-right: auto;
     transition: 0.3s;
     overflow: auto;
+    .btn{
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 100%;
+      transform: translateX(-50%)
+    }
   }
   .cardcontainer:hover{
     box-shadow: 0 0 45px gray;
@@ -73,16 +80,13 @@ main{
     top: 10px;
     overflow: scroll;
   }
-  .btn{
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 100%;
-    transform: translateX(-50%)
-  }
   // single comics
   .single-photo{
-    width: 200px;
-
+    width: 300px;
+    height: 400px;
+    img{
+      height: 100%;
+      width: 100%;
+    }
   }
 }
