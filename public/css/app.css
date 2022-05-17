@@ -12173,3 +12173,100 @@ fieldset:disabled .btn {
   }
 }
 
+main a {
+  text-decoration: none;
+}
+
+main body {
+  margin: 0;
+  padding: 0;
+  font-family: "roboto", sans-serif;
+  background-color: #F2F2F2;
+}
+
+main h1,
+main .h1 {
+  text-align: center;
+  color: #333333;
+}
+
+main .cardcontainer {
+  width: 200px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  transition: 0.3s;
+  overflow: auto;
+}
+
+main .cardcontainer:hover {
+  box-shadow: 0 0 45px gray;
+}
+
+main .photo {
+  height: 250px;
+  width: 100%;
+}
+
+main .photo img {
+  height: 100%;
+  width: 100%;
+}
+
+main .txt1 {
+  margin: auto;
+  text-align: center;
+  font-size: 17px;
+}
+
+main .content {
+  width: 80%;
+  height: 220px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  bottom: 33px;
+}
+
+main .photos {
+  width: 90px;
+  height: 30px;
+  background-color: #E74C3C;
+  color: white;
+  position: relative;
+  bottom: 30px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+main .txt4 {
+  font-size: 1.3rem;
+  position: relative;
+  top: 33px;
+}
+
+main .txt5 {
+  position: relative;
+  top: 18px;
+  color: #E74C3C;
+  font-size: 0.8rem;
+}
+
+main .txt2 {
+  position: relative;
+  top: 10px;
+  overflow: scroll;
+}
+
+main .btn {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
+main .single-photo {
+  width: 200px;
+}
+
