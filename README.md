@@ -1,3 +1,7 @@
+<img width="1423" alt="Schermata 2022-06-03 alle 17 21 04" src="https://user-images.githubusercontent.com/95136261/171883710-81d06cbb-a2b0-42fe-afec-094dc385e4bb.png">
+<img width="1423" alt="Schermata 2022-06-03 alle 17 20 57" src="https://user-images.githubusercontent.com/95136261/171883731-539f8df5-6623-401d-ac69-a845172546d7.png">
+<img width="1423" alt="Schermata 2022-06-03 alle 17 20 50" src="https://user-images.githubusercontent.com/95136261/171883755-fd004292-1852-4d98-b088-2e0ce63abbf3.png">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
