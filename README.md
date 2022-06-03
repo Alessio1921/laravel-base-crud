@@ -1,3 +1,6 @@
+Show a single balloon when clicked.
+A button to create a new comic.
+
 <img width="1423" alt="Schermata 2022-06-03 alle 17 21 04" src="https://user-images.githubusercontent.com/95136261/171883710-81d06cbb-a2b0-42fe-afec-094dc385e4bb.png">
 <img width="1423" alt="Schermata 2022-06-03 alle 17 20 57" src="https://user-images.githubusercontent.com/95136261/171883731-539f8df5-6623-401d-ac69-a845172546d7.png">
 <img width="1423" alt="Schermata 2022-06-03 alle 17 20 50" src="https://user-images.githubusercontent.com/95136261/171883755-fd004292-1852-4d98-b088-2e0ce63abbf3.png">
